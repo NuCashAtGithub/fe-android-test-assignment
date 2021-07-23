@@ -15,6 +15,7 @@ Technical Requirements:
 - cache data using Room
 - use Retrofit
 - use Hilt
+- application should have tests
 - (Optional) add a deep link for any of the detail pages
 - (Optional) display notification in case internet is gone
 - (Optional) display notification in case internet is back
