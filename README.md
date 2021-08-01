@@ -12,9 +12,10 @@ Task Description:
 
 Technical Requirements:
 - make use of Android navigation component
-- cache data using Room
 - use Retrofit
 - use Hilt
+- use LiveData
+- cache data using Room
 - application should have tests
 - (Optional) add a deep link for any of the detail pages
 - (Optional) display notification in case internet is gone
